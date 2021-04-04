@@ -1,2 +1,2 @@
 # CSE110
-my favorite programming language: python
+my favorite programming language: Python
